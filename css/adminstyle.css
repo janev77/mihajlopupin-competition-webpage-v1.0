@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-decoration: none;
+  color: red;
+  display: inline-block;
+}
+
+.odjavise {
+  float: right;
+  text-decoration: none;
+  color: #fff;
+  font-family: Arial;
+  padding: 20px 16px;
+  font-weight: bold;
+}
+.odjavise:hover {
+  color: #1deebd;
+  text-decoration: none;
+}
+
+.pocetna {
+  float: left;
+  text-decoration: none;
+  color: #fff;
+  font-family: Arial;
+  padding: 20px 16px;
+  font-weight: bold;
+}
+.pocetna:hover {
+  color: #1deebd;
+  text-decoration: none;
+}
+
+.nav-bar {
+  background-color: #113448;
+  overflow: hidden;
+  text-align: center;
+  padding: 14px;
+}
+
+.dobredojde {
+  text-decoration: none;
+  color: #1deebd;
+  font-family: Arial;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.dobredojde:hover {
+  text-decoration: none;
+  color: #1deebd;
+}
+
+.login-box {
+  max-width: 500px;
+  background: #fff;
+  padding: 100px;
+  float: none;
+  margin: 150px auto;
+}
